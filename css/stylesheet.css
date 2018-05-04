@@ -17,17 +17,13 @@ text wrapper  h1{
     text-align: center;
     color:#ffffff;
     font-size: 10vw;
-    font-family: 'Satisfy', cursive;
+    font-family: 'Dancing Script', cursive;
     
 }
 .jumbotron, .jumbotron-fluid {
     height: 400px;
    
-.h2{ 
-   position: absolute; 
-   top: 200px; 
-   left: 0; 
-   width: 100%; 
+
 }
 .mycontainer{
   height: 1500px;
@@ -37,12 +33,25 @@ text wrapper  h1{
     height:400px;
 }
 .p{
-    font-family: 'Satisfy', cursive;
+    font-family: 'Dancing Script',cursive;
 }
 
-#zero{
+
+    
+.row1{
+    float:left;
+    width: 200px;
+    margin:0;
+}
+    
+    
+    
+.col-md-6{
+    padding: 20px, 10px;
+    border:1px, solid black;
     
 }
+    
 .container {
     width: 400px;
     height: 400px:
@@ -60,9 +69,12 @@ text wrapper  h1{
     padding-right: 20px;
 }
 
+.jumbotron{
+    background-color:;
+}
 
 p{
-    font-family: 'Caveat', cursive;
+    
     
 }
 @media only screen and (min-width: 650px) and (max-width: 1024px);
