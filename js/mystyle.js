@@ -13,3 +13,13 @@ $(document).ready(function()){
 }
 
 function (x)
+
+$(document).ready(function (){
+  $(".trigger").click(function)(){
+    $("overlay").toggle();
+  });
+    
+  
+
+
+
