@@ -36,17 +36,6 @@ text wrapper  h1{
     font-family: 'Dancing Script',cursive;
 }
 
-.overlay{
-    display: none;
-    position: fixed;
-    top: 50px;
-    left:50px;
-    transform: translate(-40%,-40%);
-    height: 200%;
-    width:200px;
-    background-color: light grey;
-    
-}
     
     
     
